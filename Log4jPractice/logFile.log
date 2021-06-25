@@ -1,0 +1,39 @@
+2021-06-21 13:30:48,600  INFO [main] Simple:8 - Hello
+2021-06-21 13:30:48,603  INFO [main] Simple:9 - Hi
+2021-06-21 13:36:53,160  INFO [main] TestCases:16 - Webpage is opened...!
+2021-06-21 13:36:53,851  INFO [main] TestCases:18 - user id entered..!
+2021-06-21 13:38:28,354  INFO [main] TestCases:16 - Webpage is opened...!
+2021-06-21 13:38:28,478  INFO [main] TestCases:18 - user id entered..!
+2021-06-21 16:01:13,134  INFO [main] SampleAdmin:11 - SampleAdmin info message
+2021-06-21 16:01:13,146  WARN [main] SampleAdmin:12 - SampleAdmin warn message
+2021-06-21 16:01:13,146 ERROR [main] SampleAdmin:13 - SampleAdmin error message
+2021-06-21 16:01:13,146 FATAL [main] SampleAdmin:14 - SampleAdmin fatal message
+2021-06-21 16:01:13,147  INFO [main] SampleReport:9 - sample report info message
+2021-06-21 16:01:13,147  WARN [main] SampleReport:10 - sample report info message
+2021-06-21 16:01:13,147 ERROR [main] SampleReport:11 - sample report info message
+2021-06-21 16:01:13,153 FATAL [main] SampleReport:12 - sample report info message
+2021-06-21 16:02:00,390  INFO [main] SampleAdmin:11 - SampleAdmin info message
+2021-06-21 16:02:00,393  WARN [main] SampleAdmin:12 - SampleAdmin warn message
+2021-06-21 16:02:00,393 ERROR [main] SampleAdmin:13 - SampleAdmin error message
+2021-06-21 16:02:00,393 FATAL [main] SampleAdmin:14 - SampleAdmin fatal message
+2021-06-21 16:02:00,394  INFO [main] SampleReport:9 - sample report info message
+2021-06-21 16:02:00,394  WARN [main] SampleReport:10 - sample report info message
+2021-06-21 16:02:00,395 ERROR [main] SampleReport:11 - sample report info message
+2021-06-21 16:02:00,397 FATAL [main] SampleReport:12 - sample report info message
+
+2021-06-21 16:23:06,432  INFO [main] LogDemo:14 - chrome opened
+2021-06-21 16:23:07,160  INFO [main] LogDemo:17 - browser maximised
+2021-06-21 16:23:08,647  INFO [main] LogDemo:19 - App Launched
+2021-06-21 16:23:10,853  INFO [main] LogDemo:25 - login successful...!
+2021-06-21 16:26:02,536  INFO [main] LogDemo:14 - chrome opened
+2021-06-21 16:26:02,974  INFO [main] LogDemo:17 - browser maximised
+2021-06-21 16:26:05,751  INFO [main] LogDemo:19 - App Launched
+2021-06-21 16:26:08,751  INFO [main] LogDemo:25 - login successful...!
+2021-06-25 16:02:27,556  INFO [main] SampleAdmin:11 - SampleAdmin info message
+2021-06-25 16:02:27,582  WARN [main] SampleAdmin:12 - SampleAdmin warn message
+2021-06-25 16:02:27,583 ERROR [main] SampleAdmin:13 - SampleAdmin error message
+2021-06-25 16:02:27,583 FATAL [main] SampleAdmin:14 - SampleAdmin fatal message
+2021-06-25 16:02:27,584  INFO [main] SampleReport:9 - sample report info message
+2021-06-25 16:02:27,584  WARN [main] SampleReport:10 - sample report info message
+2021-06-25 16:02:27,584 ERROR [main] SampleReport:11 - sample report info message
+2021-06-25 16:02:27,586 FATAL [main] SampleReport:12 - sample report info message
